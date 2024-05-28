@@ -1,0 +1,19 @@
+{
+  "name": "madgamer",
+  "version": "0.0.1",
+  "description": "TG game just for you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "madgamer",
+    "tggame"
+  ],
+  "author": "Jack",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
