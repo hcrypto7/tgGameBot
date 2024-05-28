@@ -4,7 +4,8 @@
   "description": "TG game just for you!",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "nodemon server.js",
+    "start": "node server.js"
   },
   "keywords": [
     "madgamer",
